@@ -7,17 +7,15 @@
           <h1 class="hero__title">{{ site.data.settings.author.say-hello }}</h1>
           <p class="hero__subtitle">{{ site.data.settings.author.bio }}</p>
           <div class="hero__social">
+            <span class="hero__social-title">研究动态 |</span>
             
-            <span>研究动态 |</span>
-            <span>https://www.researchgate.net/profile/San_Jiang2 </span>
-            <span>https://scholar.google.com/sanjiang </span>
-            {% include contact-link.html %}
           </div>
+          {% include contact-link.html %}
         </div>
       </div>
       <div class="col col-6 col-t-12">
-        <div class="hero__image">
-          <img src="{{site.baseurl}}/images/{{ site.data.settings.author.image }}" alt="">
+        <div class="hero__image" align="middle" >
+          <img src="{{site.baseurl}}/images/{{ site.data.settings.author.image }} " height="200" width="200" alt="">
         </div>
       </div>
     </div>

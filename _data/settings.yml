@@ -8,19 +8,17 @@ description: Group of +++
 #-------------------------------
 # Author Settings
 author:
-  name: 姜三老师
+  name: 姜三副教授
   image: 01.jpg
-  say-hello: <strong>姜三老师</strong>
-  bio: 博士，副研究员，硕士生导师。2018年6月毕业于武汉大学测绘遥感信息工程国家重点实验室，同年以“地大学者”青年优秀人才引进至中国地质大学（武汉）计算机学院。主要从事数字摄影测量和计算机视觉领域的交叉研究工作，研究兴趣包括影像匹配、影像检索、深度学习、三维重建。目前，已发表论文20多篇，包括SCI和EI检索期刊论文10多篇，以及多篇中文核心论文。参与多项973和863项目、南方电网重点科技项目；近年来主持国家自然科学基金、湖北省自然科学基金，重点实验室开放基金，以及多项横向项目。担任ISPRS Journal of Photogrammetry and Remote Sensing, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing，International Journal of Remote Sensing，Journal of Applied Geodesy，武汉大学学报·信息科学版，中国图像图形学报等期刊的审稿人。
-  研究动态：
-  课题组代码和数据仓库地址：
-  Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  say-hello: <strong>姜三副教授</strong>
+  bio: 中国地质大学（武汉）副教授，硕士生导师。2018年6月毕业于武汉大学测绘遥感信息工程国家重点实验室。主要从事数字摄影测量和计算机视觉领域的交叉研究工作，研究兴趣包括影像匹配、影像检索、深度学习、三维重建。目前，已发表论文20多篇，包括SCI和EI检索期刊论文10多篇，以及多篇中文核心论文。参与多项973和863项目、南方电网重点科技项目；近年来主持国家自然科学基金、湖北省自然科学基金，重点实验室开放基金，以及多项横向项目。担任多个国际核心期刊和顶级国际学术会议的审稿人。
+  # bio：Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
 
 
 #-------------------------------
 # Contact links
-# twitter: https://twitter.com/ # Add your Twitter handle
-# facebook: https://facebook.com/ # Add your Facebook handle
+twitter: https://twitter.com/ # Add your Twitter handle
+facebook: https://facebook.com/ # Add your Facebook handle
 dribbble: https://dribbble.com/ # Add your Dribbble handle
 instagram: https://instagram.com/ # Add your Instagram handle
 pinterest: https://pinterest.com/ # Add your Pinterest handle
