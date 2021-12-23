@@ -1,5 +1,5 @@
-baseurl: "/real3dscene" # the subpath of your site, e.g. /blog
-url: "https://github.com/real3dscene/real3dscene.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://real3dscene.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
