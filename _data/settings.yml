@@ -8,9 +8,9 @@ description: Group of +++
 #-------------------------------
 # Author Settings
 author:
-  name: 姜三
+  name: 姜三老师
   image: 01.jpg
-  say-hello: <strong>姜三</strong>
+  say-hello: <strong>姜三老师</strong>
   bio: 
   课题组代码和数据仓库地址：
   Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
